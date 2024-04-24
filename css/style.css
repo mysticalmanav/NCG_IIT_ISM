@@ -1,7 +1,7 @@
  
 
 .primary-color{
-	color:rgb(15,108,107) !important;
+	color:#b1040e !important;
 }
 
 strong{
@@ -50,7 +50,7 @@ body{
 ****************/
 
 nav{
-	background-color:rgb(15,108,107);
+	background-color:#b1040e;
 }
 
 /* Navbar */
@@ -108,7 +108,7 @@ nav{
 }
 
 .navbar-custom{
-	background-color: rgb(15,108,107);
+	background-color: #b1040e;
 	border: 0;
 	margin-bottom: 0;
 }
@@ -219,8 +219,8 @@ nav ul li{
 .slick-arrow{
 	font-family: 'FontAwesome';
 	background-color: rgb(240,240,240);
-	color: rgb(15,108,107);
-	border: 4px solid rgb(15,108,107);
+	color: #b1040e;
+	border: 4px solid #b1040e;
 	padding:0.5rem 1rem;
 	position: absolute;
     z-index: 999;
@@ -264,7 +264,7 @@ nav ul li{
 
 
 .widgets-wrapper{
-	background-color:rgb(15,108,107);
+	background-color:#b1040e;
 	padding:3rem 3rem 8rem 3rem;
 }
 
@@ -445,7 +445,7 @@ nav ul li{
 
 .carousel-items{
 	overflow: hidden;
-	border: 3px solid rgb(15,108,107);
+	border: 3px solid #b1040e;
 	border-bottom: 0;
 	border-top: 0;
 }
@@ -474,9 +474,9 @@ nav ul li{
 	font-size: 2em;
 	font-weight: lighter;
 	margin-bottom: 0;
-	/*background-color: rgb(15,108,107);*/
+	/*background-color: #b1040e;*/
 	border: 0;
-	color: rgb(15,108,107);
+	color: #b1040e;
 	padding: 10px 30px;
 }
 .gallery-design .title h1.title-design {
@@ -561,7 +561,7 @@ nav ul li{
 	width: 100%;
 	display: inline-block;
 	box-sizing: border-box;
-	background-color: rgb(15,108,107);;
+	background-color: #b1040e;;
 	font-size: 1em;
 	line-height: 1.8em;
 	transition: transform 0.3s;
